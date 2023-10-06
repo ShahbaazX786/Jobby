@@ -1,3 +1,11 @@
+CL-0.0.3: 
+- Added styles, constants, dummy components, assets.
+- Added homepage with Welcome screen.
+- Added custom fonts using useFonts hook of expo.
+- Added searchBar.
+- Added popular jobs component.
+- Added screenheaderbtns
+
 CL-0.0.2: 
 - Added project structure and entry points to the app.
 - Tested the app with **npm start** and downloaded expo go app on mobile and scanned the metro bundler QR code and loaded the app on mobile.
