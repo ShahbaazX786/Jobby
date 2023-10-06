@@ -1,3 +1,6 @@
+CL-0.0.3.5: 
+- Missed changelog update in earlier commit.
+
 CL-0.0.3: 
 - Added styles, constants, dummy components, assets.
 - Added homepage with Welcome screen.
