@@ -1,3 +1,8 @@
+CL-0.0.4: 
+- Added PopularJobcard, NearbyJobcard components.
+- Added custom util logic to check if an url exists or not.
+- Added a custom hook to make axios API call.
+
 CL-0.0.3.5: 
 - Missed changelog update in earlier commit.
 
