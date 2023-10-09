@@ -1,3 +1,8 @@
+CL-0.0.5: 
+- Fixed axios not defined bug.
+- Updated the imports and axios query string.
+- Fixed bugs here and there. And made the app call the api for now.
+
 CL-0.0.4: 
 - Added PopularJobcard, NearbyJobcard components.
 - Added custom util logic to check if an url exists or not.
