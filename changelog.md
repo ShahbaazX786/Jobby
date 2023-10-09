@@ -1,3 +1,7 @@
+CL-0.0.6: 
+- Added job-detail page.
+- Added sub-component of job-detail i.e., company and tabs components aswell.
+
 CL-0.0.5: 
 - Fixed axios not defined bug.
 - Updated the imports and axios query string.
